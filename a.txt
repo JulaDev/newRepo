@@ -1,7 +1,6 @@
 
 Hello world 
 I don't like pop music
-
-Hello world
 This is from dev branch
+Update File Lab2
 
